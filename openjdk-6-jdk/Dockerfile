@@ -1,9 +1,5 @@
-#
-# OpenJDK Java 6 JDK Dockerfile
-#
-# https://github.com/dockerfile/java
-# https://github.com/dockerfile/java/tree/master/openjdk-6-jdk
-#
+# NAME = openjdk
+# TAGS = 6 6.0 6-ubuntu 6.0-ubuntu
 
 # Pull base image.
 FROM ubuntu:wily

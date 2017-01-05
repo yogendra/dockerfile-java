@@ -1,9 +1,5 @@
-#
-# Oracle Java 8 Dockerfile
-#
-# https://github.com/dockerfile/java
-# https://github.com/dockerfile/java/tree/master/oracle-java8
-#
+# NAME = java
+# TAGS = 8 8.0 8-ubuntu 8.0-ubuntu
 
 # Pull base image.
 FROM yogendra/oracle-java-base:latest

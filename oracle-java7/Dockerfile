@@ -1,9 +1,5 @@
-#
-# Oracle Java 7 Dockerfile
-#
-# https://github.com/dockerfile/java
-# https://github.com/dockerfile/java/tree/master/oracle-java7
-#
+# NAME = java
+# TAGS = 7 7.0 7-ubuntu 7.0-ubuntu
 
 # Pull base image.
 FROM yogendra/oracle-java-base:latest

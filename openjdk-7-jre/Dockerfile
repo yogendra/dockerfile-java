@@ -1,9 +1,5 @@
-#
-# OpenJDK Java 7 JRE Dockerfile
-#
-# https://github.com/dockerfile/java
-# https://github.com/dockerfile/java/tree/master/openjdk-7-jre
-#
+# NAME = openjre
+# TAGS = 7 7.0 7-ubuntu 7.0-ubuntu
 
 # Pull base image.
 FROM ubuntu:wily

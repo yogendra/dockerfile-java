@@ -1,9 +1,5 @@
-#
-# Oracle Java 6 Dockerfile
-#
-# https://github.com/dockerfile/java
-# https://github.com/dockerfile/java/tree/master/oracle-java6
-#
+# NAME = java
+# TAGS = 6 6.0 6-ubuntu 6.0-ubuntu
 
 # Pull base image.
 FROM yogendra/oracle-java-base:latest

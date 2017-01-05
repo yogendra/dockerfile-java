@@ -1,3 +1,6 @@
+# NAME = oracle-java-base
+# TAGS = ubuntu latest
+
 FROM ubuntu:wily
 
 ADD java.list /etc/apt/sources.list.d/java.list
