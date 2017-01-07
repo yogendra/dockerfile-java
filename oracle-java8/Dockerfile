@@ -1,5 +1,5 @@
 # NAME = java
-# TAGS = 8 8.0 8-ubuntu 8.0-ubuntu
+# TAGS = 8 8.0 8-ubuntu 8.0-ubuntu latest
 
 # Pull base image.
 FROM yogendra/oracle-java-base:latest
