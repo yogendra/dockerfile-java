@@ -1,5 +1,5 @@
-# NAME = openjre
-# TAGS = 6 6.0 6-ubuntu 6.0-ubuntu
+# NAME = openjdk
+# TAGS = 6-jre 6.0-jre 6-jre-ubuntu 6.0-jre-ubuntu
 
 
 # Pull base image.

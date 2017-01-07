@@ -1,5 +1,5 @@
-# NAME = openjre
-# TAGS = 7 7.0 7-ubuntu 7.0-ubuntu
+# NAME = openjdk
+# TAGS = 7-jre 7.0-jre 7-jre-ubuntu 7.0-jre-ubuntu
 
 # Pull base image.
 FROM ubuntu:wily
