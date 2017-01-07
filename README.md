@@ -10,27 +10,23 @@ This repository contains **Dockerfile** of [Java](https://www.java.com/) for [Do
 * [dockerfile/ubuntu](http://dockerfile.github.io/#/ubuntu)
 
 
-### Docker Tags
+### Docker Images/Tags
 
-`dockerfile/java` provides multiple tagged images:
-
-* `latest` (default): OpenJDK Java 7 JRE (alias to `openjdk-8-jre`)
-* `openjdk-6-jdk`: OpenJDK Java 6 JDK
-* `openjdk-6-jre`: OpenJDK Java 6 JRE
-* `openjdk-7-jdk`: OpenJDK Java 7 JDK
-* `openjdk-7-jre`: OpenJDK Java 7 JRE
-* `openjdk-8-jdk`: OpenJDK Java 8 JDK
-* `openjdk-8-jre`: OpenJDK Java 8 JRE
-* `openjdk-9-jdk`: OpenJDK Java 9 JDK
-* `openjdk-9-jre`: OpenJDK Java 9 JRE
-* `oracle-java6`: Oracle Java 6 JDK
-* `oracle-java7`: Oracle Java 7 JDK
-* `oracle-java8`: Oracle Java 8 JDK
-* `oracle-java9`: Oracle Java 9 JDK
-
-For example, you can run a `Oracle Java 8` container with the following command:
-
-    docker run -it --rm dockerfile/java:oracle-java8 java -version
+* `ubuntu:latest`: Ubuntu Wily (LTS)
+* `openjdk:6-jdk`: OpenJDK Java 6 JDK
+* `openjdk:6-jre`: OpenJDK Java 6 JRE
+* `openjdk:7-jdk`: OpenJDK Java 7 JDK
+* `openjdk:7-jre`: OpenJDK Java 7 JRE
+* `openjdk:8-jdk`: OpenJDK Java 8 JDK
+* `openjdk:8-jre`: OpenJDK Java 8 JRE
+* `openjdk:9-jdk`: OpenJDK Java 9 JDK
+* `openjdk:-9-jre`: OpenJDK Java 9 JRE
+* `java:6`: Oracle Java 6 JDK
+* `java:7`: Oracle Java 7 JDK
+* `java:8`: Oracle Java 8 JDK
+* `java:9`: Oracle Java 9 JDK
+* `oracle-java-base:latest` : Oracle Java
+* `wildfly-servlet:10.1.0.Final` : Wildfly 10 Web Profile
 
 
 ### Installation
