@@ -1,5 +1,5 @@
 # NAME = wildfly-servlet
-# TAGS = 10 10.1 10.1.0 10.1.0.Final
+# TAGS = 10 10.1 10.1.0 10.1.0.Final latest
 
 FROM yogendra/java:8
 
