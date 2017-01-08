@@ -1,5 +1,6 @@
 # NAME = tomee
-# TAGS = latest plus
+# TAGS = latest webprofile 7-webprofile 7-webprofile-alpine
+
 FROM openjdk:jre-alpine
 
 ARG version=7.0.2
